@@ -8,9 +8,27 @@
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
-            <entry key="$USER_HOME$/work/kotlin-native" value="PREVIEW" />
+            <entry key="/Volumes/work/kotlin-native" value="PREVIEW" />
           </map>
         </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
