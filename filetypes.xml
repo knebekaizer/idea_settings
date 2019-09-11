@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ReadMe.md" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
