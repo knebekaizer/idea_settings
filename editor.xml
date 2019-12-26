@@ -1,4 +1,15 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="JAVADOC_STUB_ON_ENTER" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="500" />
+    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Inconsolata" />
