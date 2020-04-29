@@ -4,7 +4,7 @@
     <property name="created">2020-04-28T19:06:30</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-04-28T19:20:43</property>
+    <property name="modified">2020-04-29T17:42:23</property>
     <property name="originalScheme">Emilia Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -396,8 +396,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="90468c" />
@@ -860,7 +860,7 @@
         <option name="BACKGROUND" value="f4eafe" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="4c94d6" />
@@ -2474,7 +2474,7 @@
     <option name="TWIG_BACKGROUND">
       <value />
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="9ebc99" />
@@ -2519,7 +2519,7 @@
         <option name="FOREGROUND" value="cb70a5" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="4d4d4a" />
